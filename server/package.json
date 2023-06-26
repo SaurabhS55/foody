@@ -1,0 +1,19 @@
+{
+  "name": "foody",
+  "version": "1.0.0",
+  "description": "This is dummy food ordering app based on mvc architecture and developed by using MERN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurabh salunke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaurabhS55/foody/issues"
+  },
+  "homepage": "https://github.com/SaurabhS55/foody#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}

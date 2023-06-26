@@ -1,0 +1,13 @@
+.App {
+  padding: 15px;
+  background-color: rgb(35, 35, 35);
+  box-sizing: border-box;
+  width: 100vw;
+  height: 100vh;
+  color: white;
+  
+}
+.App p{
+  font-size: 1.4rem;
+  font-weight: bold;
+}
